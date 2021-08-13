@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on astrophysics research
+- 🔭 I’m currently working on astrophysics research & `chandralc`
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my projects
 - 📫 How to reach me: sam@qprogramming.net
