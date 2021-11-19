@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=sammarth-k&label=Profile%20views&color=0e75b6&style=flat")
+### Hi there I'm Sammarth👋
 
 - 🔭 I’m currently working on astrophysics research & `chandralc`
 - 👯 I’m looking to collaborate on anything
@@ -8,7 +6,7 @@
 - 📫 How to reach me: sam@qprogramming.net
 - 😄 Pronouns: he/him
 - 🖋️ Connect with me: https://linkedin.com/in/sammarth
-
+![](https://komarev.com/ghpvc/?username=sammarth-k&label=Profile%20views&color=0e75b6&style=flat")
 
 [![Sammarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammarth-k&theme=dark&show_icons=true&count_private=true)](https://github.com/sammarth-k/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammarth-k&theme=dark">
