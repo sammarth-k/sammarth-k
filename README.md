@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on astrophysics research & `chandralc`
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my projects or anything you want!
-- 📫 How to reach me: sam@qprogramming.net
+- 📫 How to reach me: sam.kumar@yale.edu
 - 😄 Pronouns: he/him
 
 ![](https://komarev.com/ghpvc/?username=sammarth-k&label=Profile%20views&color=0e75b6&style=flat)
