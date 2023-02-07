@@ -1,6 +1,6 @@
 ### Hi there I'm Sammarth👋
 
-- 🔭 I’m currently working on astrophysics research & `chandralc`
+- CS + Math @ Yale
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my projects or anything you want!
 - 📫 How to reach me: sam.kumar@yale.edu
